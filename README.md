@@ -1,6 +1,6 @@
 # Privacy Policy for AIExpenseTracker
 
-**Effective Date:** [Insert Date]
+**Effective Date:** [2024-06-18]
 
 ## Introduction
 
